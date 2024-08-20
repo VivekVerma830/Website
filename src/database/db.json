@@ -1,0 +1,65 @@
+{
+
+  "products":[
+      {
+          "id":1,
+          "name":"Titan Watch Galaxy",
+          "price":1870,
+          "photo":"p1.jpg"
+      },
+      {
+          "id":2,
+          "name":"Redo Watch",
+          "price":45000,
+          "photo":"p2.jpg"
+      },
+      {
+          "id":3,
+          "name":"FastTrack Watch",
+          "price":7000,
+          "photo":"p3.jpg"
+      },
+      {
+          "id":4,
+          "name":"Rolex Watch Galaxy",
+          "price":500,
+          "photo":"p4.jpg"
+      },
+      {
+          "id":5,
+          "name":"Sonata Diamond Watch Galaxy",
+          "price":8000,
+          "photo":"p5.jpg"
+      },
+      {
+          "id":6,
+          "name":"Noise Smart Watch Galaxy",
+          "price":9000,
+          "photo":"p6.jpg"
+      },
+      {
+          "id":7,
+          "name":"Noise Smart Watch Galaxy",
+          "price":9000,
+          "photo":"p6.jpg"
+      },
+      {
+          "id":8,
+          "name":"Noise Smart Watch Galaxy",
+          "price":9000,
+          "photo":"p6.jpg"
+      },
+      {
+          "id":9,
+          "name":"FireBold Watch Galaxy",
+          "price":7800,
+          "photo":"p7.jpg"
+      },
+      {
+          "id":10,
+          "name":"HMT Watch ",
+          "price":9888,
+          "photo":"p8.jpg"
+      }
+  ]
+}
